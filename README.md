@@ -44,6 +44,6 @@
   
   
 ### 💬 My social networks
-- <img src="assets/icons/platforms/x.svg" width="15"/><a href="https://x.com/artemfroloveng" target="_blank"> X(Twitter)</a> <br>
-- <img src="assets/icons/platforms/LinkedIN.svg" width="15"/><a href="https://www.linkedin.com/in/artem-frolov-333660397/" target="_blank"> LinkedIN</a><br>
-- <img src="assets/icons/platforms/youtube.svg" width="15"/><a href="https://www.youtube.com/@artemfroloveng" target="_blank"> Youtube</a>
+- <a  href="https://linktr.ee/artemfroloveng">
+  My social network
+  </a>
