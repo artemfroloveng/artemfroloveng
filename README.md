@@ -44,6 +44,6 @@
   
   
 ### 💬 My social networks
-- <a  href="https://linktr.ee/artemfroloveng">
+- <a  href="https://linktr.ee/artemfroloveng" target="_blank">
   My social network
   </a>
