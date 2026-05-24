@@ -1,6 +1,6 @@
 # 👋🏻 HI, I am Artem Frolov!
 
-![](assets/bgmain.jpg)
+![](assets/bgmain.png)
 
 * 🧐 Full-stack engineer
 * 💻 3+ years of development experience
