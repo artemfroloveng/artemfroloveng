@@ -1,6 +1,6 @@
 # 👋🏻 HI, I am Artem Frolov!
 
-![](assets/bg.jpg)
+![](assets/bgmain.jpg)
 
 * 🧐 Full-stack engineer
 * 💻 3+ years of development experience
@@ -23,7 +23,7 @@
 
 - Backend
 
-  - <img src="assets/icons/technologies/node.svg" width="15"/>Node.js
+  - <img src="assets/icons/technologies/node .svg" width="15"/>Node.js
   - <img src="assets/icons/technologies/express.svg" width="15"/>Express.js, NestJS
   - <img src="assets/icons/technologies/websocket.svg" width="15"/>REST API, WebSockets
   - <img src="assets/icons/technologies/json.svg" width="15"/>Json
