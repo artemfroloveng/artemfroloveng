@@ -1,6 +1,6 @@
 # 👋🏻 HI, I am Artem Frolov!
 
-![](assets/Bg-main.jpg)
+<img src="assets/Bg-main.jpg" alt="Bg main" style="max-width: 700px; max-height: 700px; width: 100%; height: auto;">
 
 * 🧐 Full-stack engineer
 * 💻 3+ years of development experience
