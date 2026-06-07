@@ -3,7 +3,6 @@
 ![](assets/bgmain.jpg)
 
 * 🧐 Full-stack engineer
-* 💻 3+ years of development experience
 
 
   <summary>🔧 Technology stack</summary>
@@ -16,17 +15,17 @@
     - <img src="assets/icons/technologies/react.svg" width="15"/>React
     - Redux (Redux Toolkit, Redux Persist), Zustand
     - Formik, React Hook Form, Yup, Axios, React Router, React Query
+    - Jest, React Testing Library, Enzyme, Chai, Mocha, Vitest
     - <img src="assets/icons/technologies/vite.svg" width="15"/>Vite
     - <img src="assets/icons/technologies/eslint.svg" width="15"/>ESLint, Stylelint, Prettier
-    - Jest, React Testing Library, Enzyme, Chai, Mocha, Vitest
     - <img src="assets/icons/technologies/bem.svg" width="15"/>BEM, Feature-Sliced Design, Accessibility, UX
 
 - Backend
 
-  - <img src="assets/icons/technologies/node .svg" width="15"/>Node.js
+  - <img src="assets/icons/technologies/node.svg" width="15"/>Node.js
   - <img src="assets/icons/technologies/express.svg" width="15"/>Express.js, NestJS
   - <img src="assets/icons/technologies/websocket.svg" width="15"/>REST API, WebSockets
-  - <img src="assets/icons/technologies/json.svg" width="15"/>Json
+  - <img src="assets/icons/technologies/json.svg" width="15"/>JSON
   - <img src="assets/icons/technologies/prisma.svg" width="15"/>Prisma
   - <img src="assets/icons/technologies/cookie.svg" width="15"/>JWT, Cookies
 
@@ -39,7 +38,7 @@
 
   - <img src="assets/icons/technologies/git.svg" width="15"/>Git (GitHub, BitBucket, GitLab)
   - <img src="assets/icons/technologies/figma.svg" width="15"/>Figma, Adobe Photoshop
-  - <img src="assets/icons/soft/webstorm.svg" width="15"/>Webstorm
+  - <img src="assets/icons/soft/webstorm.svg" width="15"/>WebStorm
   
   
   
